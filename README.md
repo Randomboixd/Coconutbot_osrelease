@@ -6,7 +6,7 @@ Around one year ago, i started making this bot for a discord server. After aroun
 ### **THE CODE IS AWFUL!**
 
 
-![house explosion gif. i hope it shows up]([https://tenor.com/bt0Bu.gif](https://media.tenor.com/eEs1jRy5UXgAAAAC/house-explosion.gif)
+![house explosion gif. i hope it shows up](https://media.tenor.com/eEs1jRy5UXgAAAAC/house-explosion.gif)
 
 
 Soo this repository contains all the information to spin up a Coconutbot V2.4 instance (but why?)...
