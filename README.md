@@ -11,8 +11,6 @@ Around one year ago, i started making this bot for a discord server. After aroun
 
 Soo this repository contains all the information to spin up a Coconutbot V2.4 instance (but why?)...
 
-So let's get a few things off the hook before i'll explain stuff.
-
 If you ever read the code for [gamelab](https://github.com/Randomboixd/gamelab) you can see, the code is almost as awful as that... Sooo **DO NOT EVEN THINK OF USING COCONUTBOT AS A MAIN BOT!**... well not without some patching atleast aka REWRITING THE WHOLE THING.
 
 # Modifications from the original code
